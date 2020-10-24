@@ -19,7 +19,7 @@
   "author": "Paulus Schoutsen <paulus@paulusschoutsen.nl>",
   "license": "Apache-2.0",
   "devDependencies": {
-    "eslint": "^3.14.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^11.0.1",
     "eslint-plugin-import": "^2.2.0",
     "faucet": "^0.0.1",
